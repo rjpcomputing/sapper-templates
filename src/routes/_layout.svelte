@@ -13,7 +13,7 @@
 <Nav {segment}/>
 
 <div class="container">
-	<div class="section">
+	<div class="section content">
 		<slot></slot>
 	</div>
 </div>
