@@ -1,6 +1,6 @@
 # sapper-template
 
-The default [Sapper](https://github.com/sveltejs/sapper) and [Bulma](https://bulma.io/documentation/) template.
+The default [Sapper](https://github.com/sveltejs/sapper) template that includes [Bulma](https://bulma.io/documentation/) as well.
 
 
 ## Getting started
@@ -12,7 +12,7 @@ The default [Sapper](https://github.com/sveltejs/sapper) and [Bulma](https://bul
 
 ```bash
 # for Rollup
-npx degit "rjpcomputing/sapper-template#bulma" my-app
+npx degit "rjpcomputing/sapper-templates#bulma" my-app
 ```
 
 ### Running the project
