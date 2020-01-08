@@ -1,4 +1,4 @@
-# sapper-template
+# sapper-template Including Bulma
 
 The default [Sapper](https://github.com/sveltejs/sapper) template that includes [Bulma](https://bulma.io/documentation/) as well.
 
